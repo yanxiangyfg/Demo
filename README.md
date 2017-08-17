@@ -1,3 +1,3 @@
 # Demo
-All Demos in reposity is just for Learning.  when you coding, you can refer to these Demos for more efficient work.
+All demos in reposity is just for myself learning.  When you coding, you can refer to these Demos for more efficient work.
 
